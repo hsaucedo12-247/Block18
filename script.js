@@ -27,3 +27,5 @@
 * member will see list of items in cart
 * member will be prompted to continue to payment method
 
+*/
+
